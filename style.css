@@ -1,0 +1,104 @@
+*{
+    font-family: 'cabin';
+}
+
+.navigation{
+    background-color: rgb(18,25,33);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: -6px;
+}
+
+.text-white{
+    color: white;
+}
+
+.increase{
+    width: 300px;
+}
+
+.logo{
+    margin-left: 50px;
+}
+
+.holder{
+    margin-right: 50px;
+}
+
+.search-bar{
+    display: flex;
+}
+
+.search-icon{
+    background-color: rgb(251,190,103);
+}
+
+.holder{
+    display: flex;
+}
+
+.navigation-2{
+    display: flex;
+    background-color: rgb(36,48,64);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-container-1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    justify-content: space-evenly;
+}
+
+.content-box-1{
+    align-items: center;
+    margin-top: -480px;
+    background-color: white;
+    height: fit-content;
+}
+
+.text-grey{
+    color: gray;
+}
+
+.box-container-2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    justify-content: space-evenly;
+}
+
+.content-box-2{
+    margin-top: -480px;
+    background-color: white;
+    height: fit-content;
+}
+
+.content-box-3{
+    margin-top: -480px;
+    background-color: white;
+    height: fit-content;
+}
+
+.content-box-4{
+    margin-top: -480px;
+    background-color: white;
+    height: fit-content;
+}
+
+.last-content{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: -300px;
+}
+
+.sign-in-button{
+    background-color: rgb(254,216,19);
+    color: rgb(156,121,8);
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 6px;
+}
