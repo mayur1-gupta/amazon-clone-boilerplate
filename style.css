@@ -157,4 +157,23 @@
     .box-container {
         justify-content: center; /* Center align items */
     }
+
+}
+@media screen and (max-width: 992px) {
+    .box-container {
+        justify-content: center; /* Center align items */
+    }
+    .content-box {
+        width: 90%; /* Adjust width for better spacing */
+        margin: 10px 0; /* Adjust margin for better spacing */
+    }
+}
+@media screen and (max-width: 1200px) {
+    .box-container {
+        justify-content: center; /* Center align items */
+    }
+    .content-box {
+        width: 90%; /* Adjust width for better spacing */
+        margin: 10px 0; /* Adjust margin for better spacing */
+    }   
 }
